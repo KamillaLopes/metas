@@ -1,5 +1,9 @@
+body{
+    background-image: linear-gradient(rgb(1, 1, 134),rgb(50, 50, 196));
+}
+
 .meta{
-    color: blueviolet;
+    color: rgb(241, 234, 223);
 }
 
 .imp{
