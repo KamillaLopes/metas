@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(darkblue,lightblue);
+    background-image: linear-gradient(dodgerblue,deepskyblue);
 }
 
 .meta{
@@ -12,4 +12,8 @@ body{
 
 .mtimp{
     color: rgb(201, 0, 0);
+}
+
+h1{
+    color:darkblue;
 }
