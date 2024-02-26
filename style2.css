@@ -1,5 +1,10 @@
+:root{
+    --cor-de-fundo:dodgerblue;
+}
+
+
 body{
-    background: linear-gradient(dodgerblue, lightblue);
+    var(--cor-de-fundo);
     padding-bottom: 50%;
 }
 
