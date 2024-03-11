@@ -1,18 +1,18 @@
 body{
-    background: linear-gradient(#3A375E, #000000d0);
+    background: linear-gradient(#000000d0; #3A375E);
     padding-bottom: 30%;
     font-family: ;
 }
 
 h1,h2,h4{
-    color: midnightblue;
+    color: rgb(204, 204, 204);
 }
 
 .imp{
-    color: rgb(255, 115, 0);
+    color: rgb(230, 140, 67);
 }
 
 .mtimp{
-    color: rgb(201, 0, 0);
+    color: rgb(175, 49, 49);
 }
 
