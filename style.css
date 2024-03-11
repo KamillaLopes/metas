@@ -1,18 +1,18 @@
 body{
-    background: linear-gradient(#000000d0; #3A375E);
+    background: linear-gradient(#1b1b1b, #3A375E);
     padding-bottom: 30%;
     font-family: ;
 }
 
 h1,h2,h4{
-    color: rgb(204, 204, 204);
+    color: #b3b3b3;
 }
 
 .imp{
-    color: rgb(230, 140, 67);
+    color: #ec9c5b;
 }
 
 .mtimp{
-    color: rgb(175, 49, 49);
+    color: #b62323;
 }
 
