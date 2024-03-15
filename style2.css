@@ -92,3 +92,11 @@ body {
 }
 
 }
+
+.aba-conteudo.ativo{
+    display: block;
+}
+
+.aba-conteudo{
+    display: none;
+}
