@@ -40,7 +40,7 @@ body {
 }
 
 .botao{
-    font-family: "Crakra Petch", sans-serif;
+    font-family: "Chakra Petch", sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
@@ -91,6 +91,12 @@ body {
     border-radius: 0 40px 0 0;
 }
 
+}
+
+.abas-textos{
+    background-color: var(--texto-fundo);
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
 }
 
 .aba-conteudo.ativo{
