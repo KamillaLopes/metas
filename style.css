@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(#28165a, #c191ee);
+    background: linear-gradient(#c191ee, #28165a);
     padding-bottom: 30%;
     font-family: ;
 }
@@ -13,7 +13,7 @@ h1,h2,h4{
 }
 
 .mtimp{
-    color: #801ac4;
+    color: #472b7c;
 }
 
 .link{
