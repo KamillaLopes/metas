@@ -30,7 +30,7 @@ function atualizaCronometro(){
 }
 
 atualizaCronometro();
-setInterval(atualizaCronometro(),1000);
+setInterval(atualizaCronometro,1000);
 
 function calculaTempo(tempoObjetivo){
     let tempoAtual = new Date();
