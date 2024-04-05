@@ -4,7 +4,7 @@ body{
     font-family: ;
 }
 
-h1,h2,h4{
+h1,h2,{
     color: #ffffff;
 }
 
@@ -12,8 +12,8 @@ h1,h2,h4{
     color: #b48ff8;
 }
 
-.mtimp{
-    color: #b48ff8;
+h4{
+    color: #8e58f1;
 }
 
 .link{
