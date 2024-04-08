@@ -40,8 +40,6 @@ function calculaTempo(tempoObjetivo){
     } else {
         return "Prazo Finalizado";
     }
-
-    return dias + " dias " + horas + " horas " + minutos + " minutos " + segundos + " segundos ";
 }
 
 function atualizaCronometro(){
