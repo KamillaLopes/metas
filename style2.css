@@ -69,17 +69,6 @@ body {
     border-bottom: 4px solid var(--verde);
 }
 
-@media screen and (min-width:768px){
-    .botoes{
-        display: flex;
-    }
-
-
-.botao:first-child{
-    border-radius: 40px 0px 0 0;
-}
-}
-
 .abas-textos{
     background-color: var(--texto-fundo);
     padding: 40px;
@@ -103,6 +92,17 @@ body {
     text-align: center;
     color: var(--verde);
     text-transform: uppercase;
+}
+
+@media screen and (min-width:768px){
+    .botoes{
+        display: flex;
+    }
+
+
+.botao:first-child{
+    border-radius: 40px 0px 0 0;
+}
 }
 
 .contador{
