@@ -26,10 +26,13 @@ h4{
 
 hr{
     display: block;
-    height: 30px;
     border: none;
 }
 
 .quebra1{
     height:1px;
+}
+
+.quebra2{
+    height:30px;
 }
