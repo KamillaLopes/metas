@@ -110,7 +110,6 @@ body {
 }
 
 .contador{
-    font-family: "Chakra Petch", sans-serif;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
