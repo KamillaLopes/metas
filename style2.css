@@ -71,7 +71,7 @@ body {
 
 .abas-textos{
     background-color: var(--texto-fundo);
-    padding: 40px;
+    padding: 30px;
     padding-bottom: 70px;
     border-radius: 0 0 40px 40px;
 }
